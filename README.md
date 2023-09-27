@@ -1,8 +1,7 @@
 ![github-header-image](https://github.com/alaa-attaya/alaa-attaya/assets/133498639/4f2aa402-2e6e-4cc4-898f-feff2f0c5eb0)
 
-👨‍💻 Code Composer | 🚀 Turning lines of code into poetry, one keystroke at a time | 🌐 Internet traveler on a quest for digital adventures
+👨‍💻 Code Composer | 🚀 Turning lines of code into poetry, one keystroke at a time | 🌐 Internet traveler on a quest for digital adventures | 📫 How to reach me **attayaalaa@gmail.com**
 
-📫 How to reach me **attayaalaa@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alaa-attaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alaa-attaya" height="30" width="40" /></a>
