@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/alaa-attaya/alaa-attaya/assets/133498639/4f2aa402-2e6e-4cc4-898f-feff2f0c5eb0)
+![github-header-image](./assets/github-header.png)
 
 👨‍💻 Code Composer | 🚀 Turning lines of code into poetry, one keystroke at a time | 🌐 Internet traveler on a quest for digital adventures | 📫 How to reach me **attayaalaa@gmail.com**
 
