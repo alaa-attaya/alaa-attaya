@@ -1,6 +1,6 @@
 ![github-header-image](./assets/github-header.png)
 
-👨‍💻 Code Composer | 🌐 Professional Internet Surfer | 💡 Ready to Spark Innovation | 📧 attayaalaa@gmail.com
+👨‍💻 Code Composer | 🌐 Professional Internet Surfer | 💡 Ready To Spark Innovation | 📧 attayaalaa@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
